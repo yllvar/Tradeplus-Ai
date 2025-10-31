@@ -1,5 +1,9 @@
 # TradePlus AI
 
+## 🌟 AI-Powered Trading Assistant
+
+TradePlus AI is a cross-platform trading assistant that combines AI SDK intelligence with trading capabilities. Built with React Native and Expo, it provides a seamless experience for traders across mobile and web platforms with real-time market data and AI-powered insights.
+
 <div align="center">
   <img src="https://img.freepik.com/free-vector/chatbot-concept-illustration_114360-5622.jpg" width="800" alt="TradePlus AI Banner">
   
@@ -9,9 +13,6 @@
   [![DeepSeek](https://img.shields.io/badge/DeepSeek-181A20?style=for-the-badge&logo=openai&logoColor=white)](https://deepseek.com/)
 </div>
 
-## 🌟 AI-Powered Trading Assistant
-
-TradePlus AI is a cross-platform trading assistant that combines AI SDK intelligence with trading capabilities. Built with React Native and Expo, it provides a seamless experience for traders across mobile and web platforms with real-time market data and AI-powered insights.
 
 ### ✨ Features
 
