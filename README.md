@@ -11,7 +11,7 @@
 
 ## 🌟 AI-Powered Trading Assistant
 
-TradePlus AI is a modern, cross-platform trading assistant that combines DeepSeek AI's intelligence with trading capabilities. Built with React Native and Expo, it provides a seamless experience for traders across mobile and web platforms with real-time market data and AI-powered insights.
+TradePlus AI is a cross-platform trading assistant that combines AI SDK intelligence with trading capabilities. Built with React Native and Expo, it provides a seamless experience for traders across mobile and web platforms with real-time market data and AI-powered insights.
 
 ### ✨ Features
 
