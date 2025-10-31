@@ -31,34 +31,19 @@ TradePlus AI is a cross-platform trading assistant that combines AI SDK intellig
 - npm or yarn
 - Expo CLI (`npm install -g expo-cli`)
 
-### Environment Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/cloudwalk-chat.git
-   cd cloudwalk-chat
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   # or
-   yarn
-   ```
-
-3. Create a `.env` file in the root directory with your DeepSeek API key:
+Create a `.env` file in the root directory with your DeepSeek API key:
    ```env
    DEEPSEEK_API_KEY=your_deepseek_api_key_here
    ```
 
    > **Note**: Get your API key from [DeepSeek's platform](https://platform.deepseek.com/).
 
-4. Start the development server:
+Start the development server:
    ```bash
    npx expo start
    ```
 
-5. Run on your preferred platform:
+Run on your preferred platform:
    ```bash
    # For iOS
    npx expo start --ios
